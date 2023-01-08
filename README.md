@@ -1,1 +1,1 @@
-I am a software Engineering student with ALX Africa
+This readme describes different scripts that run files through the different stages of C file complilation
